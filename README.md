@@ -18,7 +18,7 @@ Repository Contents
 
 Library
 --------------
-* **[Arduino Library](https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library)** - Library for reading pressure in mBar, altitude, etc.
+* **[Arduino Library](https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library)** - Library for reading proximity, ambient light, and IR values.
 
 License Information
 -------------------
