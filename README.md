@@ -1,7 +1,7 @@
 SparkFun VCNL4040 Proximity Sensor (Qwiic) - VCNL4040
 ===========================================================
 
-![SparkFun Proximity Sensor (Qwiic) - VCNL4040](ttps://cdn.sparkfun.com/assets/parts/1/3/5/9/2/15177-SparkFun_Proximity_Sensor_Breakout_-_20cm__VCNL4040__Qwiic_-01.jpg)
+![SparkFun Proximity Sensor (Qwiic) - VCNL4040](https://cdn.sparkfun.com/assets/parts/1/3/5/9/2/15177-SparkFun_Proximity_Sensor_Breakout_-_20cm__VCNL4040__Qwiic_-01.jpg)
 
 [*SparkFun Proximity Sensor Breakout - 20cm, VCNL4040 (Qwiic) (SEN-15177)*](https://www.sparkfun.com/products/15177)
 
