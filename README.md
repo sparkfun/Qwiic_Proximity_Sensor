@@ -19,7 +19,7 @@ Repository Contents
 Library and Hookup Guide
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library)** - Library for reading proximity, ambient light, and IR values.
-* **[Hookup Huide](https://learn.sparkfun.com/tutorials/qwiic-proximity-sensor-vcnl4040-hookup-guide)** - Hookup guide for getting started with the SparkFun VCNL4040 Proximity Sensor.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-proximity-sensor-vcnl4040-hookup-guide)** - Hookup guide for getting started with the SparkFun VCNL4040 Proximity Sensor.
 
 License Information
 -------------------
